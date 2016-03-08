@@ -14,7 +14,7 @@ Por ejemplo, supongamos que nuestra organización se llama NoSoloSoftware y quer
 información sobre nuestros empleados y de las distintas sedes físicas. La estructura de nuestro
 directorio sería algo así:
 
-![ejemplo organizacion ldap](../../_imagenes/sistemas/openldap/ejemplo-organizacion.png)
+![ejemplo organizacion ldap](images/organization-example.png)
 
 ### Terminología
 
